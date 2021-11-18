@@ -1,4 +1,4 @@
-:x: # Reto New Design :x:
+# Reto New Design :x:
 
 [![gradle](https://img.shields.io/badge/gradle-v6.8.X-yellow.svg)](https://gradle.org/install/)   :computer:
 
