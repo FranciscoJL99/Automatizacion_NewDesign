@@ -1,5 +1,5 @@
 # Reto New Design
-[![gradle](https://img.shields.io/badge/gradle-v6.8.X-yellow.svg)](https://gradle.org/install/)
+[![gradle](https://img.shields.io/badge/gradle-v6.8.X-yellow.svg)](https://gradle.org/install/)   :computer:
 
 ## Prerequisites 
 
