@@ -15,7 +15,7 @@ Característica: Programacion presentacion en New Desing
       | <dia> | <mes> | <hora> | <rangoHora> |
 
     Ejemplos:
-      | nombre    | correo                    | celular    | dia | mes       | temporada | hora | rangoHora |
-      | Francisco | javiier.leoon15@gmail.com | 3004855663 | 10  | Diciembre | 2021      | 1    | PM        |
+      | nombre    | correo          | celular    | dia | mes       | temporada | hora | rangoHora |
+      | Francisco | test1@gmail.com | 3004512345 | 10  | Diciembre | 2022      | 1    | PM        |
 
 

@@ -27,8 +27,8 @@ public class IngresarDatos implements Task {
                 , SendKeys.of(datosProgramacion.getCorreo()).into(CAMPO_EMAIL)
                 , Click.on(BOTON_AGENDAR)
                 , SendKeys.of(datosProgramacion.getNombre()).into(CAMPO_NOMBRE)
-                , SendKeys.of(datosProgramacion.getCelular()).into(CAMPO_CELULAR)
-                , Click.on(BOTON_AGENDAR)
+           //     , SendKeys.of(datosProgramacion.getCelular()).into(CAMPO_CELULAR)
+             //   , Click.on(BOTON_AGENDAR)
         );
     }
 
